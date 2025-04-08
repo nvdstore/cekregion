@@ -27,6 +27,7 @@ Useful for players, account sellers, or anyone who wants to verify account infor
 
 - **Node.js** – JavaScript runtime
 - **Express.js** – Web server framework
+- **jQuery** – Simplifies DOM manipulation and AJAX requests
 - **Axios** – For API requests
 - **Tailwind CSS** – For UI styling (if used)
 
